@@ -1,0 +1,8 @@
+langchain
+gradio
+flast 
+streamlit
+requests
+openai
+python-dotenv
+transformers
