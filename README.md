@@ -6,4 +6,4 @@
 
 # Deployed Link
 
-[DEPLOYED_LINK]()
+[DEPLOYED_LINK](https://ex37multilanguageassistantcodelema-d395ckoay4zt3hws7yvgsy.streamlit.app/)
